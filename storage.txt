@@ -1,0 +1,8 @@
+Feijao
+11
+Arroz
+3
+Batata
+9
+Biscoito
+8
